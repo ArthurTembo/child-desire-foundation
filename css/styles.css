@@ -1236,6 +1236,12 @@
             object-fit: contain;
         }
 
+        #contact .foot-logo {
+            display: block;
+            width: fit-content;
+            margin-inline: auto;
+        }
+
         .foot-logo img {
             border-radius: 0.625rem;
         }
